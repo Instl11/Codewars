@@ -10,6 +10,7 @@ public class TimeFormatter_4 {
         System.out.println(formatDuration(60));
         System.out.println(formatDuration(120));
         System.out.println(formatDuration(3600));
+
     }
 
     private static int S_PER_MIN = 60;
